@@ -1,13 +1,13 @@
-package com.twcch.course.chapter0301;
+package com.twcch.course;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Chapter0301ApplicationTests {
+class SpringBootCourseApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
